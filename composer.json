@@ -11,8 +11,7 @@
     ],
     "require": {
         "php" : ">=7.4",
-        "ext-mbstring": "*",
-        "gedeson/gedpackage": "1.0.0"
+        "ext-mbstring": "*"
     },
     "minimum-stability": "stable"
 }
