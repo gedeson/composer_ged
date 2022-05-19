@@ -1,10 +1,10 @@
 {
-    "name": "gedeson/gedpackage",
+    "name": "ged/gedPackage",
     "description": "My first test package",
     "type": "library",
     "authors": [
         {
-            "name": "Gedeson",
+            "name": "Gedeson Wasley",
             "email": "gedeson.wasley@gmail.com"
         }
     ],
