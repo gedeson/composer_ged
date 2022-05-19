@@ -13,5 +13,6 @@
         "php" : ">=7.4",
         "ext-mbstring": "*"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
