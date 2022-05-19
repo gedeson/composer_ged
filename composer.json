@@ -1,0 +1,13 @@
+{
+    "name": "gedeson/gedpackage",
+    "description": "My first test package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gedeson",
+            "email": "gedeson.wasley@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
