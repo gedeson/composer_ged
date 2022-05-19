@@ -13,3 +13,4 @@ class gedPackage {
         return "Hello Packagist! I am coming";
     }
 }
+?>
