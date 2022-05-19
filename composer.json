@@ -9,10 +9,15 @@
             "email": "gedeson.wasley@gmail.com"
         }
     ],
-    "require": {
-        "php" : ">=7.4",
-        "ext-mbstring": "*",
-        "gedeson/gedpackage": "dev-master"
+    "autoload": {
+        "psr-4": {
+            "Gedeson\\novoPacote\\": "src/"
+        }
     },
-    "minimum-stability": "stable"
+    "require": {
+        "php" : ">=7.4"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": false,
+    "prefer-lowest": false
 }

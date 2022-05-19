@@ -6,10 +6,11 @@
  * Purpose : Submit to packagist
  */
 
-namespace gedPackage;
+namespace Gedeson\novoPacote;
 
 class gedPackage {
     public function pack() {
         return "Hello Packagist! I am coming";
     }
 }
+?>
