@@ -1,5 +1,5 @@
 {
-    "name": "gedeson/gedPackage",
+    "name": "gedeson/gedpackage",
     "description": "My first test package",
     "type": "library",
     "authors": [
